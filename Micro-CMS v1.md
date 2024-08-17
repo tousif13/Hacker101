@@ -10,9 +10,11 @@
 
 # Flag 2 (SQL Injection)
 
-![image](https://github.com/user-attachments/assets/af05eda7-81b4-4563-aa78-4add162a337e)
+![image](https://github.com/user-attachments/assets/3880abb4-bc76-4c4b-82a7-acf61ec4f14d)
 
-![Screenshot 2024-08-17 232317](https://github.com/user-attachments/assets/4fee21ce-2278-4f47-9241-8bcc357cbad0)
+![Screenshot 2024-08-17 232317 (1)](https://github.com/user-attachments/assets/d4ee4821-159c-4138-96b2-84228eeb8a42)
+
 
 # Flag 3 ()
 
+![image](https://github.com/user-attachments/assets/9ba23e82-51e6-4010-b263-40d26ffe139d)
