@@ -16,3 +16,5 @@
 
 ## Flag 2
 
+    Search for any login protocol either through pages or URL.
+
