@@ -36,5 +36,21 @@ Wordlist : https://github.com/danielmiessler/SecLists/blob/master/Usernames/Name
 
     Now, bruteforce password
 
-Wordlist : https://github.com/danielmiessler/SecLists/blob/master/Passwords/Common-Credentials/10k-most-common.txt
+Wordlist : https://github.com/danielmiessler/SecLists/blob/master/Passwords/Common-Credentials/100k-most-used-passwords-NCSC.txt
 
+![image](https://github.com/user-attachments/assets/d600c767-ee22-475e-897b-e1ba21027f31)
+
+We got both username and password.
+
+![Screenshot 2024-08-19 225611](https://github.com/user-attachments/assets/ded6f0f7-bc00-4136-aab7-daac4105be02)
+
+
+## Flag 3
+
+    Edit the product content and look for any xss posibility.
+
+![image](https://github.com/user-attachments/assets/3bd66631-25c1-4752-b5ee-1958b85dc931)
+
+![image](https://github.com/user-attachments/assets/69392bfc-b3ed-4ee7-932d-2ed99e92d0ab)
+
+![Screenshot 2024-08-19 230132](https://github.com/user-attachments/assets/bf42eb7d-dd60-4d66-8938-a0e986b1a9c9)
