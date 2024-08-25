@@ -78,9 +78,12 @@
 
 ![image](https://github.com/user-attachments/assets/17d38f7c-5d97-4d0c-8c6d-f02235574737)
 
-    It has a hash equivalent of id=2. Change it to other id equivalent hash. For ex, id-3
+    It has a hash equivalent of id=2. Change it to root's id=1.
 
-![image](https://github.com/user-attachments/assets/11799f26-3dad-45ba-b634-b33e571c66dc)
+![image](https://github.com/user-attachments/assets/9434352e-d244-4c52-a7e9-237326198d43)
+
+![image](https://github.com/user-attachments/assets/8caefab7-e03d-4fc8-bd95-3998357c2953)
+
 
 
 
